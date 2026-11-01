@@ -1,6 +1,6 @@
 # StyleStock – Inventory Management System
 
-StyleStock adalah aplikasi **Inventory Management System** berbasis Laravel yang dikembangkan sebagai proyek Mini Project 3 mata kuliah Web 4. Aplikasi ini membantu mengelola data persediaan barang, supplier, serta transaksi barang masuk dan barang keluar.
+StyleStock adalah aplikasi **Inventory Management System** berbasis Laravel yang dikembangkan sebagai proyek Mini Project 4 mata kuliah Web 5. Aplikasi ini membantu mengelola data persediaan barang, supplier, serta transaksi barang masuk dan barang keluar.
 
 ## Fitur Utama
 
